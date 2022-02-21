@@ -1,2 +1,2 @@
 config:
-	info: main lbranch, springcloud-config/config-prod.yml version=1
+    info: main lbranch, springcloud-config/config-prod.yml version=1
